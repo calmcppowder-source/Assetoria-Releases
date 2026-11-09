@@ -6,7 +6,7 @@ Assetoriaは、VRChat向けに購入・入手したアセットZIPを、BOOTHの
 
 ## ダウンロード
 
-[最新のテスター版をダウンロード](https://github.com/calmcppowder-source/Assetoria-Releases/releases/latest)
+[Assetoria v1.1.9 テスター版をダウンロード](https://github.com/calmcppowder-source/Assetoria-Releases/releases/tag/v1.1.9)
 
 Releasesページから次のファイルをダウンロードしてください。
 
