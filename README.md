@@ -6,12 +6,12 @@ Assetoriaは、VRChat向けに購入・入手したアセットZIPを、BOOTHの
 
 ## ダウンロード
 
-[Assetoria v1.1.10 テスター版をダウンロード](https://github.com/calmcppowder-source/Assetoria-Releases/releases/tag/v1.1.10)
+[Assetoria v1.1.11 テスター版をダウンロード](https://github.com/calmcppowder-source/Assetoria-Releases/releases/tag/v1.1.11)
 
 Releasesページから次のファイルをダウンロードしてください。
 
-- `Assetoria_v1.1.10_win-x64.zip`：アプリ本体
-- `Assetoria_v1.1.10_win-x64.zip.sha256.txt`：改ざん・破損確認用（任意）
+- `Assetoria_v1.1.11_win-x64.zip`：アプリ本体
+- `Assetoria_v1.1.11_win-x64.zip.sha256.txt`：改ざん・破損確認用（任意）
 
 GitHubが自動表示する「Source code (zip)」「Source code (tar.gz)」はアプリ本体ではありません。
 
