@@ -6,12 +6,12 @@ Assetoriaは、VRChat向けに購入・入手したアセットZIPを、BOOTHの
 
 ## ダウンロード
 
-[Assetoria v1.1.9 テスター版をダウンロード](https://github.com/calmcppowder-source/Assetoria-Releases/releases/tag/v1.1.9)
+[Assetoria v1.1.10 テスター版をダウンロード](https://github.com/calmcppowder-source/Assetoria-Releases/releases/tag/v1.1.10)
 
 Releasesページから次のファイルをダウンロードしてください。
 
-- `Assetoria_v1.1.9_win-x64.zip`：アプリ本体
-- `Assetoria_v1.1.9_win-x64.zip.sha256.txt`：改ざん・破損確認用（任意）
+- `Assetoria_v1.1.10_win-x64.zip`：アプリ本体
+- `Assetoria_v1.1.10_win-x64.zip.sha256.txt`：改ざん・破損確認用（任意）
 
 GitHubが自動表示する「Source code (zip)」「Source code (tar.gz)」はアプリ本体ではありません。
 
@@ -20,13 +20,13 @@ GitHubが自動表示する「Source code (zip)」「Source code (tar.gz)」は�
 - 64bit版 Windows 10 / 11
 - [.NET 10 Desktop Runtime（Windows x64）](https://dotnet.microsoft.com/download/dotnet/10.0)
 
-.NET 10 SDKは不要です。未導入の場合は、起動時にMicrosoft公式ダウンロードページへの案内が表示されます。
+.NET 10 SDKは不要です。未導入の場合は、利用者の確認後にMicrosoft公式の.NET 10 Desktop Runtimeを自動で取得し、ハッシュとMicrosoft署名を確認してからインストールします。Windowsの管理者確認が表示される場合があります。
 
 ## 起動方法
 
 1. ダウンロードしたZIPを任意のフォルダへすべて展開します。
 2. 最上位にある `Assetoriaを起動.bat` をダブルクリックします。
-3. .NET 10 Desktop Runtimeが未導入の場合は、案内に従ってインストールしてから再度起動します。
+3. .NET 10 Desktop Runtimeが未導入の場合は、確認画面で「Yes」を選び、Windowsの管理者確認を許可します。インストール後はAssetoriaが自動で起動します。
 
 `App` フォルダ内のファイルは動作に必要です。個別に移動・改名・削除しないでください。
 
